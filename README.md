@@ -1,0 +1,3 @@
+# Data Exploration
+
+One of the most important steps in a Data Science project is the exploration of data which consists of data visualization and statistical techniques to understand the data we are dealing with. Although nowadays' models are getting more powerful in its pattern recognition, the human factor Data Science is still unparallel. Data exploration allows Data Scientists to look at the data in a familiar way so that initial insight can be drawn from it.
